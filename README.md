@@ -6,7 +6,7 @@ A professional collection of Eclipse ESAPI scripts for clinical radiotherapy wor
 
 **CRITICAL - READ BEFORE USE**
 
-This software is provided as-is for research and development purposes. These tools are intended to **ASSIST** clinical workflows but **DO NOT** replace professional medical judgment, manual verification, or institutional quality assurance procedures.
+These tools are intended to **ASSIST** clinical workflows but **DO NOT** replace professional medical judgment, manual verification, or institutional quality assurance procedures.
 
 **Important Safety Requirements:**
 - ✅ All scripts must be thoroughly validated at your institution before clinical use
