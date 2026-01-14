@@ -20,6 +20,7 @@ This software is provided as-is for research and development purposes. These too
 
 **User Responsibility:**
 By using this software, you accept full responsibility for validation, testing, and verification in your clinical environment. The authors and contributors assume no liability for clinical use.
+These scripts have not been certified or approved as a medical device under any regulatory framework.
 
 ## 📋 Validation Disclaimer
 
