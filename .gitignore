@@ -1,0 +1,84 @@
+# Varian ESAPI DLLs - DO NOT COMMIT
+# These are proprietary and must be obtained from Varian
+*.dll
+VMS.TPS.*
+ESAPI/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+bin/
+obj/
+*.VisualState.xml
+TestResults/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# NuGet
+packages/
+*.nupkg
+*.snupkg
+**/packages/*
+!**/packages/build/
+
+# Patient data - CRITICAL
+# Never commit any files containing patient information
+*Patient*
+*PHI*
+*DICOM*
+*.dcm
+
+# Clinical data
+*.db
+*.sqlite
+*.mdb
+
+# Proprietary/Licensed content
+# Do not include any Varian proprietary materials
+*Varian*License*
+*.lic
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.bak
+*~
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+temp/
+tmp/
